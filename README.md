@@ -1,1 +1,1 @@
-# Create-Database-Using-PHP-Script
+# Create Database Using PHP Script
