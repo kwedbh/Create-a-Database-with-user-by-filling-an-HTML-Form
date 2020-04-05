@@ -37,7 +37,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## Links
 - Website：[https://kwed.website](https://kwed.website)   
-- GitHub：[https://github.com/kwedbh/Create-Database-Using-PHP-Script](https://github.com/kwedbh/Create-Database-Using-PHP-Script)   
+- GitHub：[https://github.com/kwedbh/Create-a-Database-with-user-by-filling-an-HTML-Form](https://github.com/kwedbh/Create-a-Database-with-user-by-filling-an-HTML-Form)   
 - Email：[kwedng@gmail.com](kwedng@gmail.com) / [kingsleywilliamsdaniel@gmail.com](kingsleywilliamsdaniel@gmail.com)  
 - Facebook：[https://fb.com/kwedbh](https://fb.com/kwedbh)    
 
